@@ -64,6 +64,12 @@ streamlit run app.py
 - Adjust the confidence threshold using the sidebar.
 - View detected object labels and live statistics.
 
+
+## THE APP
+- app link:https://codealphaobjectdetection-npydx7cfyhs46zry7znrtt.streamlit.app/
+
+- ![screenshot](object_detector.png)
+
 ##  Future Improvements
 
 - Deep SORT Tracking
